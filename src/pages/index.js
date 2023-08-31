@@ -84,6 +84,38 @@ const IndexPage = () => {
             <li>
               <a
                 target="blank"
+                href="https://imgix.cosmicjs.com/1f714d30-47f6-11ee-82b2-d53af1858037-IPLC---LCUPC-Single-mode-duplex-connector-4-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/1f714d30-47f6-11ee-82b2-d53af1858037-IPLC---LCUPC-Single-mode-duplex-connector-4-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                IP/LC - LC/UPC Single-mode duplex
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/1f75e110-47f6-11ee-82b2-d53af1858037-IPLC---LCUPC-Single-mode-duplex-connector-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/1f75e110-47f6-11ee-82b2-d53af1858037-IPLC---LCUPC-Single-mode-duplex-connector-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                IP/LC - LC/UPC Single-mode duplex
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
                 href="https://imgix.cosmicjs.com/fa61ca90-45a4-11ee-82b2-d53af1858037-LCAPC-LCAPC-Single-Mode-Simplex-Assembly-1-sample.jpg"
                 class="hover:opacity-70"
               >
@@ -148,12 +180,12 @@ const IndexPage = () => {
             <li>
               <a
                 target="blank"
-                href="https://imgix.cosmicjs.com/01a1ded0-45a5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-2-sample.jpg"
+                href="https://imgix.cosmicjs.com/678bf850-47f5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-1-sample.jpg"
                 class="hover:opacity-70"
               >
                 <img
                   class="aspect-[3/2] w-full rounded-2xl object-cover"
-                  src="https://imgix.cosmicjs.com/01a1ded0-45a5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-2-sample.jpg"
+                  src="https://imgix.cosmicjs.com/678bf850-47f5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-1-sample.jpg"
                   alt=""
                 />
               </a>
@@ -164,12 +196,12 @@ const IndexPage = () => {
             <li>
               <a
                 target="blank"
-                href="https://imgix.cosmicjs.com/01a169a0-45a5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-1-sample.jpg"
+                href="https://imgix.cosmicjs.com/678c6d80-47f5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-2-sample.jpg"
                 class="hover:opacity-70"
               >
                 <img
                   class="aspect-[3/2] w-full rounded-2xl object-cover"
-                  src="https://imgix.cosmicjs.com/01a169a0-45a5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-1-sample.jpg"
+                  src="https://imgix.cosmicjs.com/678c6d80-47f5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-Assembly-2-sample.jpg"
                   alt=""
                 />
               </a>
@@ -202,6 +234,22 @@ const IndexPage = () => {
                 <img
                   class="aspect-[3/2] w-full rounded-2xl object-cover"
                   src="https://imgix.cosmicjs.com/01a44fd0-45a5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-connector-2-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC Duplex Single-Mode (6 pair)
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/677fc350-47f5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-connector-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/677fc350-47f5-11ee-82b2-d53af1858037-LC-Duplex-Single-Mode-6-pair-connector-3-sample.jpg"
                   alt=""
                 />
               </a>
@@ -276,6 +324,22 @@ const IndexPage = () => {
             <li>
               <a
                 target="blank"
+                href="https://imgix.cosmicjs.com/dcb4d6f0-47f6-11ee-82b2-d53af1858037-LCLC-Duplex-Single-mode-1-meter-connector-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/dcb4d6f0-47f6-11ee-82b2-d53af1858037-LCLC-Duplex-Single-mode-1-meter-connector-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC/LC Duplex Single-mode 1 meter
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
                 href="https://imgix.cosmicjs.com/08b53dc0-45a5-11ee-82b2-d53af1858037-LCUPC---LCUPC-Multimode-Duplex-Assembly-2-sample.jpg"
                 class="hover:opacity-70"
               >
@@ -330,6 +394,22 @@ const IndexPage = () => {
                 <img
                   class="aspect-[3/2] w-full rounded-2xl object-cover"
                   src="https://imgix.cosmicjs.com/08b14620-45a5-11ee-82b2-d53af1858037-LCUPC---LCUPC-Multimode-Duplex-connector-2-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC/UPC - LC/UPC Multimode Duplex
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/1c4c7110-47f7-11ee-82b2-d53af1858037-LCUPC---LCUPC-Multimode-Duplex-connector-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/1c4c7110-47f7-11ee-82b2-d53af1858037-LCUPC---LCUPC-Multimode-Duplex-connector-3-sample.jpg"
                   alt=""
                 />
               </a>
@@ -468,6 +548,22 @@ const IndexPage = () => {
             <li>
               <a
                 target="blank"
+                href="https://imgix.cosmicjs.com/59530010-47f7-11ee-82b2-d53af1858037-SCAPC---SCAPC-Single-mode-Simplex-connector-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/59530010-47f7-11ee-82b2-d53af1858037-SCAPC---SCAPC-Single-mode-Simplex-connector-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                SC/APC - SC/APC Single-mode Simplex
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
                 href="https://imgix.cosmicjs.com/13699130-45a5-11ee-82b2-d53af1858037-SCUPC---SCUPC-Duplex-single-mode-assembly-2-sample.jpg"
                 class="hover:opacity-70"
               >
@@ -522,6 +618,22 @@ const IndexPage = () => {
                 <img
                   class="aspect-[3/2] w-full rounded-2xl object-cover"
                   src="https://imgix.cosmicjs.com/136a7b90-45a5-11ee-82b2-d53af1858037-SCUPC---SCUPC-Duplex-single-mode-connector-2-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                SC/UPC - SC/UPC Duplex single-mode
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/839b95d0-47f7-11ee-82b2-d53af1858037-SCUPC---SCUPC-Duplex-single-mode-connector-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/839b95d0-47f7-11ee-82b2-d53af1858037-SCUPC---SCUPC-Duplex-single-mode-connector-3-sample.jpg"
                   alt=""
                 />
               </a>
