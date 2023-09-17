@@ -113,6 +113,41 @@ const IndexPage = () => {
                 IP/LC - LC/UPC Single-mode duplex
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/f5b7b4e0-5586-11ee-a06d-a31b04d2d095-IPLC---LCUPC-Single-mode-duplex-Assembly-4-Sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/f5b7b4e0-5586-11ee-a06d-a31b04d2d095-IPLC---LCUPC-Single-mode-duplex-Assembly-4-Sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                IP/LC - LC/UPC Single-mode duplex
+              </h3>
+            </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/f5b8c650-5586-11ee-a06d-a31b04d2d095-IPLC---LCUPC-Single-mode-duplex-Assembly-3-Sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/f5b8c650-5586-11ee-a06d-a31b04d2d095-IPLC---LCUPC-Single-mode-duplex-Assembly-3-Sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                IP/LC - LC/UPC Single-mode duplex
+              </h3>
+            </li>
+
             <li>
               <a
                 target="blank"
@@ -177,6 +212,41 @@ const IndexPage = () => {
                 LC/APC-LC/APC Single-Mode Simplex
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/29df25a0-5587-11ee-a06d-a31b04d2d095-LCAPC-LCAPC-Single-Mode-Simplex-Assembly-4-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/29df25a0-5587-11ee-a06d-a31b04d2d095-LCAPC-LCAPC-Single-Mode-Simplex-Assembly-4-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC/APC-LC/APC Single-Mode Simplex
+              </h3>
+            </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/29e0d350-5587-11ee-a06d-a31b04d2d095-LCAPC-LCAPC-Single-Mode-Simplex-Assembly-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/29e0d350-5587-11ee-a06d-a31b04d2d095-LCAPC-LCAPC-Single-Mode-Simplex-Assembly-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC/APC-LC/APC Single-Mode Simplex
+              </h3>
+            </li>
+
             <li>
               <a
                 target="blank"
@@ -257,6 +327,41 @@ const IndexPage = () => {
                 LC Duplex Single-Mode (6 pair)
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/5d8c8460-5587-11ee-a06d-a31b04d2d095-LC-Duplex-Single-Mode-6-pair-Assembly-2-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/5d8c8460-5587-11ee-a06d-a31b04d2d095-LC-Duplex-Single-Mode-6-pair-Assembly-2-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC Duplex Single-Mode (6 pair)
+              </h3>
+            </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/5d981d20-5587-11ee-a06d-a31b04d2d095-LC-Duplex-Single-Mode-6-pair-Assembly-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/5d981d20-5587-11ee-a06d-a31b04d2d095-LC-Duplex-Single-Mode-6-pair-Assembly-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC Duplex Single-Mode (6 pair)
+              </h3>
+            </li>
+
             <li>
               <a
                 target="blank"
@@ -337,6 +442,41 @@ const IndexPage = () => {
                 LC/LC Duplex Single-mode 1 meter
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/9f040210-5587-11ee-a06d-a31b04d2d095-LCLC-Duplex-Single-mode-1-meter-Assembly-4-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/9f040210-5587-11ee-a06d-a31b04d2d095-LCLC-Duplex-Single-mode-1-meter-Assembly-4-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC/LC Duplex Single-mode 1 meter
+              </h3>
+            </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/9f038ce0-5587-11ee-a06d-a31b04d2d095-LCLC-Duplex-Single-mode-1-meter-Assembly-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/9f038ce0-5587-11ee-a06d-a31b04d2d095-LCLC-Duplex-Single-mode-1-meter-Assembly-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC/LC Duplex Single-mode 1 meter
+              </h3>
+            </li>
+
             <li>
               <a
                 target="blank"
@@ -417,6 +557,24 @@ const IndexPage = () => {
                 LC/UPC - LC/UPC Multimode Duplex
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/c997d1a0-5587-11ee-a06d-a31b04d2d095-LCUPC---LCUPC-Multimode-Duplex-Assembly-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/c997d1a0-5587-11ee-a06d-a31b04d2d095-LCUPC---LCUPC-Multimode-Duplex-Assembly-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                LC/UPC - LC/UPC Multimode Duplex
+              </h3>
+            </li>
+
             <li>
               <a
                 target="blank"
@@ -481,6 +639,24 @@ const IndexPage = () => {
                 Single-mode MPO(F) - MPO(F) 1 meter
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/e9b197a0-5587-11ee-a06d-a31b04d2d095-Single-mode-MPOF---MPOF-1-meter-Assembly-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/e9b197a0-5587-11ee-a06d-a31b04d2d095-Single-mode-MPOF---MPOF-1-meter-Assembly-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                Single-mode MPO(F) - MPO(F) 1 meter
+              </h3>
+            </li>
+
             <li>
               <a
                 target="blank"
@@ -561,6 +737,41 @@ const IndexPage = () => {
                 SC/APC - SC/APC Single-mode Simplex
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/1126c210-5588-11ee-a06d-a31b04d2d095-SCAPC---SCAPC-Single-mode-Simplex-Assembly-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/1126c210-5588-11ee-a06d-a31b04d2d095-SCAPC---SCAPC-Single-mode-Simplex-Assembly-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                SC/APC - SC/APC Single-mode Simplex
+              </h3>
+            </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/11264ce0-5588-11ee-a06d-a31b04d2d095-SCAPC---SCAPC-Single-mode-Simplex-Assembly-2-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/11264ce0-5588-11ee-a06d-a31b04d2d095-SCAPC---SCAPC-Single-mode-Simplex-Assembly-2-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                SC/APC - SC/APC Single-mode Simplex
+              </h3>
+            </li>
+
             <li>
               <a
                 target="blank"
@@ -634,6 +845,23 @@ const IndexPage = () => {
                 <img
                   class="aspect-[3/2] w-full rounded-2xl object-cover"
                   src="https://imgix.cosmicjs.com/839b95d0-47f7-11ee-82b2-d53af1858037-SCUPC---SCUPC-Duplex-single-mode-connector-3-sample.jpg"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                SC/UPC - SC/UPC Duplex single-mode
+              </h3>
+            </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/347b19a0-5588-11ee-a06d-a31b04d2d095-SCUPC---SCUPC-Duplex-single-mode-assembly-3-sample.jpg"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/347b19a0-5588-11ee-a06d-a31b04d2d095-SCUPC---SCUPC-Duplex-single-mode-assembly-3-sample.jpg"
                   alt=""
                 />
               </a>
