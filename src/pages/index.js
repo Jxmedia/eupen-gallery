@@ -869,6 +869,71 @@ const IndexPage = () => {
                 SC/UPC - SC/UPC Duplex single-mode
               </h3>
             </li>
+
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/50acc7e0-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-1.png"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/50acc7e0-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-1.png"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                Power Jumper Cable 1
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/518d15c0-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-2.png"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/518d15c0-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-2.png"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                Power Jumper Cable 2
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/51f96c20-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-3.png"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/51f96c20-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-3.png"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                Power Jumper Cable 3
+              </h3>
+            </li>
+            <li>
+              <a
+                target="blank"
+                href="https://imgix.cosmicjs.com/52118800-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-4.png"
+                class="hover:opacity-70"
+              >
+                <img
+                  class="aspect-[3/2] w-full rounded-2xl object-cover"
+                  src="https://imgix.cosmicjs.com/52118800-5ebb-11ee-b975-cb0cfadd93ad-Power-Jumper-4.png"
+                  alt=""
+                />
+              </a>
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">
+                Power Jumper Cable 4
+              </h3>
+            </li>
           </ul>
         </div>
       </div>
